@@ -1,5 +1,6 @@
 # Strophe.stream-management.js
 
+
 Strophe.stream-management.js is a plugin that implements stream management on XMPP. ([ XEP-0198 ]( http://xmpp.org/extensions/xep-0198.html ))
 
 ## Usage
